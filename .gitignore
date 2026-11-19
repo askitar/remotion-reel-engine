@@ -1,0 +1,22 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+whisper.cpp
+out
+models
+public
+.env*
+!.env.example
+*.pem
+*.key
+work
+*.log
+node_modules/
+Thumbs.db
+.cache/
+out/
+exports/
